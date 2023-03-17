@@ -1,2 +1,1 @@
-Demonstration:
-http://diary.infinityfreeapp.com/
+Hosting example: http://diary.infinityfreeapp.com/
